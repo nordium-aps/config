@@ -1,0 +1,13 @@
+{
+  "name": "@nordium-aps/prettier-config",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nordium-aps/config"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "prettier": ">= 2"
+  },
+  "gitHead": "88b5ba13557b2e51642becd7d9be7e3b299b7567"
+}
